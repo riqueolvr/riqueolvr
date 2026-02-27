@@ -1,8 +1,8 @@
 <div align="center">
 
   # Hello world, my name is Henrique Marcelino de Oliveira
-    I'm 21 years old and I'm Junior Developer !
-    I'm currently majoring in Software Engineering at the University of the Region of Joinville (UNIVILLE)
+   I'm 22 years old and studying Software Engineering at the University of the Region of Joinville (UNIVILLE).
+
 
 <p align="center">
     
