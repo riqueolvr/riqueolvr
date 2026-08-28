@@ -12,7 +12,7 @@
         <img 
             alt="linkedin" 
             title="Vizualiza"
-            src = https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png
+            src = https://partners-cdn.studysmarter.de/media/uploads/sites/2/2026/03/8d5128ebbaa4025e/linkedin.de.png
             width= 30px
     </a>
     
